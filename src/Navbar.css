@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    min-height: 10vh;
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+}
